@@ -1,0 +1,7 @@
+D:\Mis Documentos\Documents\GitHub\DES320\controlSesiones\controlSesiones\obj\Debug\controlSesiones.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\Documents\GitHub\DES320\controlSesiones\controlSesiones\bin\controlSesiones.dll.config
+D:\Mis Documentos\Documents\GitHub\DES320\controlSesiones\controlSesiones\bin\controlSesiones.dll
+D:\Mis Documentos\Documents\GitHub\DES320\controlSesiones\controlSesiones\bin\controlSesiones.pdb
+D:\Mis Documentos\Documents\GitHub\DES320\controlSesiones\controlSesiones\obj\Debug\controlSesiones.dll
+D:\Mis Documentos\Documents\GitHub\DES320\controlSesiones\controlSesiones\obj\Debug\controlSesiones.pdb
+D:\Mis Documentos\Documents\GitHub\DES320\controlSesiones\controlSesiones\obj\Debug\controlSesiones.csprojAssemblyReference.cache
